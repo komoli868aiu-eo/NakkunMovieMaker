@@ -3,11 +3,15 @@
 Windows/Linux/MacOSで動作します。
 
 以下にある全ての文章は、このソフトウェアに将来必要とされているメモ書きなどです。
+
 そこにある機能を必ず搭載しているというわけではないのでご注意ください。
 
 AquesTalk1 Win/AquesTalk1 Linux/AquesTalk1 Macの音声合成エンジンを使用しています。
+
 AquesTalk2 Win/AquesTalk2 Linux/AquesTalk2 Macの音声合成エンジンを使用しています。
+
 AquesTalk10 Win/AquesTalk10 Linux/AquesTalk10 Macの音声合成エンジンを使用しています。
+
 AqKanji2Koe-A Win/AqKanji2Koe-A Linux/AqKanji2Koe-A Macの言語処理エンジンを使用しています。
 
 FFmpegを使用しています。
