@@ -6,6 +6,7 @@ Windows/Linux/MacOSで動作します。
 
 そこにある機能を必ず搭載しているというわけではないのでご注意ください。
 
+
 AquesTalk1 Win/AquesTalk1 Linux/AquesTalk1 Macの音声合成エンジンを使用しています。
 
 AquesTalk2 Win/AquesTalk2 Linux/AquesTalk2 Macの音声合成エンジンを使用しています。
