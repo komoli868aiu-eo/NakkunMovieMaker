@@ -15,29 +15,55 @@ FFmpegを使用しています。
 対応している音声合成ソフト・サービス
 
 A.I.VOICE
+
 AivisProject（AivisSpeech / AivisCloudAPI）
+
 Amazon Polly
+
 AquesTalk1 / AquesTalk2 / AquesTalk10
+
 CeVIO AI / CeVIO Creative Studio 7
+
 CoeFont
+
 COEIROINK
+
 ElevenLabs
+
 Google Cloud Text-to-Speech
+
 Gemini Text-to-Speech
+
 Grok Text-to-Speech
+
 Irodori-TTS
+
 ITVOICE
+
 Kotodama
+
 LMROID（配布・サポート終了）
+
 Microsoft Azure Text-to-Speech
+
 OpenAI Text-to-Speech
+
 SAPI
+
 SHAREVOX
+
 Style-Bert-VITS2
+
 TALQu3
+
 VOICEPEAK
+
 VOICEVOX
+
 VOICEVOX Nemo
+
 VoiSona Talk
+
 よみてのれゐ
+
 唄詠２
